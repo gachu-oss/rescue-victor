@@ -1,0 +1,15 @@
+{
+  "name": "intro-to-react-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix ./intro-to-react run dev"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.6.2",
+    "postcss": "^8.5.33",
+    "tailwindcss": "^4.3.5"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.5"
+  }
+}
